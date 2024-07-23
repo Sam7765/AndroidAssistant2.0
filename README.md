@@ -34,20 +34,29 @@ such as
 
 ## Basic Info On Android Assistant
 
-##Core Components of a Voice Assistant
--Speech Recognition: Converts spoken language into text.
--Natural Language Understanding (NLU): Interprets the meaning of the text.
--Dialogue Management: Determines the appropriate response or action.
--Text-to-Speech (TTS): Converts text into spoken language.
--Integration with Services: Connects to external services (e.g., weather, music, calendar).
+## Core Components of a Voice Assistant
+
+- Speech Recognition: Converts spoken language into text
+
+- Natural Language Understanding (NLU): Interprets the meaning of the text
+
+- Dialogue Management: Determines the appropriate response or action
+- 
+- Text-to-Speech (TTS): Converts text into spoken language
+- 
+- Integration with Services: Connects to external services (e.g., weather, music, calendar)
 
 ## Technologies and Tools
 
--Python: A popular language for AI and machine learning projects.
--Speech Recognition libraries: Librosa, SpeechRecognition.
--Natural Language Processing libraries: NLTK, spaCy, Gensim.
--Text-to-Speech libraries: gTTS, pyttsx3.
--Cloud platforms: Google Cloud Platform, Amazon Web Services, Microsoft Azure (for pre-trained models and services).
+- Python: A popular language for AI and machine learning projects
+
+- Speech Recognition libraries: Librosa, SpeechRecognition
+
+- Natural Language Processing libraries: NLTK, spaCy, Gensim
+
+- Text-to-Speech libraries: gTTS, pyttsx3
+
+- Cloud platforms: Google Cloud Platform, Amazon Web Services, Microsoft Azure (for pre-trained models and services)
 
 ## Output :
 
