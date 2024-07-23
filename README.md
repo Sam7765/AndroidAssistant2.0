@@ -41,9 +41,9 @@ such as
 - Natural Language Understanding (NLU): Interprets the meaning of the text
 
 - Dialogue Management: Determines the appropriate response or action
-- 
+  
 - Text-to-Speech (TTS): Converts text into spoken language
-- 
+  
 - Integration with Services: Connects to external services (e.g., weather, music, calendar)
 
 ## Technologies and Tools
