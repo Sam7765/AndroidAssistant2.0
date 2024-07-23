@@ -58,7 +58,17 @@ such as
 
 - Cloud platforms: Google Cloud Platform, Amazon Web Services, Microsoft Azure (for pre-trained models and services)
 
-## Output :
+
+## Basic Info On Android Assistant
+
+- Pyttsx3:- This module is used for converting text to speech in a program that works offline. To install this module type the below command in the terminal.
+pip install pyttsx3
+
+- Wikipedia:- As we all know Wikipedia is a great source of knowledge just like GeeksforGeeks we have used the Wikipedia module to get information from Wikipedia or to perform a Wikipedia search. To install this module type the below command in the terminal.
+
+- Speech Recognition:- Since we’re building an application for voice assistant, one of the most important things is that your assistant recognizes your voice (meaning what you want to say/ ask). To install this module type the below command in the terminal.
+
+- DateTime:- Date and Time are used to show Date and Time. This module comes built-in with Python.
 
 
 
